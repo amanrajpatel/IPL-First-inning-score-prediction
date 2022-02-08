@@ -237,6 +237,10 @@ body{
   text-align: center;
 }
 
+.result-p{
+	color: white;
+}
+
 .danger{
     color: #ff0000;
 }
